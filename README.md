@@ -47,12 +47,6 @@ My skills include frontend and backend development, creating intuitive user inte
 ### 🏢 TrabaHanap
 **Job-matching mobile application** - A comprehensive solution connecting job seekers with employers through an intuitive mobile interface.
 
-### 🏥 PASYENTE Project for Dengue
-**Mobile healthcare application** - Contributed to developing a mobile app focused on dengue prevention and patient management.
-
-### 💼 Portfolio Website
-**Modern responsive portfolio** - Built with Next.js, showcasing my work and skills with a clean, professional design.
-
 ## 📊 GitHub Stats
 
 <div align="center">
