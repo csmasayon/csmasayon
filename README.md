@@ -63,7 +63,7 @@ My skills include frontend and backend development, creating intuitive user inte
 ## 🎵 Beyond Code
 
 When I'm not coding, you can find me:
-- 🎵 **Creating music** and exploring new sounds at ![EVADE FROM 宇宙](https://img.shields.io/badge/EVADE_FROM_宇宙-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- 🎵 **Creating music** and exploring new sounds at [![EVADE FROM 宇宙](https://img.shields.io/badge/EVADE_FROM_宇宙-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2ohnT62k1nUnUlOezFyOGb)
 - 🔍 **Exploring new technologies** and staying up-to-date with industry trends
 
 ## 📬 Let's Connect!
