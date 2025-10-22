@@ -63,7 +63,7 @@ My skills include frontend and backend development, creating intuitive user inte
 ## 🎵 Beyond Code
 
 When I'm not coding, you can find me:
-- 🎵 **Creating music** and exploring new sounds at ![Spotify](https://img.shields.io/badge/spotify-#1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- 🎵 **Creating music** and exploring new sounds at ![Spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 - 🔍 **Exploring new technologies** and staying up-to-date with industry trends
 
 ## 📬 Let's Connect!
